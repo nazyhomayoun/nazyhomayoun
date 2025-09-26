@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python (Data Science & AI), SQL & MongoDB (Databases), C++ (Algorithms & Numerical Methods) UI/UX with Figma**
 
-- 📫 How to reach me **Nazyhomayounfar@gmail.com, https://www.linkedin.com/in/nazy-homayounfar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+- 📫 How to reach me **Nazyhomayounfar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
